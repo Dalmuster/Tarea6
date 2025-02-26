@@ -6,9 +6,10 @@
 
 #Verificamos que esta funcionando correctamente y comenzamos la instalación.
 
-![imagen](https://github.com/user-attachments/assets/6e3e914c-4b17-4c93-aa6b-a7c64ff7342a)
+![imagen](https://github.com/user-attachments/assets/fef35429-e67c-4f7c-aa1e-94802737e538)
 
-![imagen](https://github.com/user-attachments/assets/feef07d2-cffa-4d3e-bb4f-dcb7c371420a)
+![imagen](https://github.com/user-attachments/assets/f5867b1d-d002-46da-a85b-507627851392)
 
-![imagen](https://github.com/user-attachments/assets/70c7a734-24bd-4644-b3a1-4a43b58bc199)
+![imagen](https://github.com/user-attachments/assets/9dd450a9-35ce-48a5-a13a-5ab0dfd172f1)
+
 
